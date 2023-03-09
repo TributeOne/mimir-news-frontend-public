@@ -20,10 +20,10 @@ The project was discontinued in mid-2022 because no investor was found and the c
 ## Screenshots:
 ![Bilder](https://cdn.discordapp.com/attachments/926533178188005386/1083433895367803000/Mimir_Logo_Round_Edges.png)
 ![Bilder](https://cdn.discordapp.com/attachments/926533178188005386/1083433971385380904/Mimir_Text_Logo_Cropped.png)
-![Bilder](https://cdn.discordapp.com/attachments/926533178188005386/1083434423669768262/Wallpaper_iPhoneX.png)
 ![Bilder](https://cdn.discordapp.com/attachments/926533178188005386/971800381980037140/Screenshot_1651765459.png)
 ![Bilder](https://cdn.discordapp.com/attachments/926533178188005386/971800380809809940/Screenshot_1651765479.png)
 ![Bilder](https://cdn.discordapp.com/attachments/926533178188005386/971800380180672654/Screenshot_1651765505.png)
 ![Bilder](https://cdn.discordapp.com/attachments/926533178188005386/971800379765440532/Screenshot_1651765510.png)
 ![Bilder](https://cdn.discordapp.com/attachments/926533178188005386/971800381661249616/Screenshot_1651765463.png)
-![Videos](https://cdn.discordapp.com/attachments/926533178188005386/1083433300531630222/VIDEO-2022-03-23-15-44-15.mp4)
+![Bilder](https://cdn.discordapp.com/attachments/926533178188005386/1083434423669768262/Wallpaper_iPhoneX.png)
+[![VIDEO_NAME](https://cdn.discordapp.com/attachments/926533178188005386/971800380180672654/Screenshot_1651765505.png)](https://cdn.discordapp.com/attachments/926533178188005386/1083433300531630222/VIDEO-2022-03-23-15-44-15.mp4)
