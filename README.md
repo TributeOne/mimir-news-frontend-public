@@ -20,6 +20,7 @@ The project was discontinued in mid-2022 because no investor was found and the c
 ---
 
 ## Short Video:
+(Click on the Image to Watch)
 [![VIDEO_NAME](https://cdn.discordapp.com/attachments/926533178188005386/971800380180672654/Screenshot_1651765505.png)](https://www.youtube.com/shorts/RhaYS1Q-Yw0)
 
 
