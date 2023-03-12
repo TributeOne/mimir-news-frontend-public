@@ -17,6 +17,12 @@ The project was discontinued in mid-2022 because no investor was found and the c
 - [Mímir News Organization](https://github.com/AI-News-2021)
 - [backend-service by @nowaythatworked](https://github.com/)
 
+---
+
+## Short Video:
+[![VIDEO_NAME](https://cdn.discordapp.com/attachments/926533178188005386/971800380180672654/Screenshot_1651765505.png)](https://cdn.discordapp.com/attachments/926533178188005386/1083433300531630222/VIDEO-2022-03-23-15-44-15.mp4)
+
+
 ## Screenshots:
 ![Bilder](https://cdn.discordapp.com/attachments/926533178188005386/1083433895367803000/Mimir_Logo_Round_Edges.png)
 ![Bilder](https://cdn.discordapp.com/attachments/926533178188005386/1083433971385380904/Mimir_Text_Logo_Cropped.png)
@@ -26,4 +32,4 @@ The project was discontinued in mid-2022 because no investor was found and the c
 ![Bilder](https://cdn.discordapp.com/attachments/926533178188005386/971800379765440532/Screenshot_1651765510.png)
 ![Bilder](https://cdn.discordapp.com/attachments/926533178188005386/971800381661249616/Screenshot_1651765463.png)
 ![Bilder](https://cdn.discordapp.com/attachments/926533178188005386/1083434423669768262/Wallpaper_iPhoneX.png)
-[![VIDEO_NAME](https://cdn.discordapp.com/attachments/926533178188005386/971800380180672654/Screenshot_1651765505.png)](https://cdn.discordapp.com/attachments/926533178188005386/1083433300531630222/VIDEO-2022-03-23-15-44-15.mp4)
+
